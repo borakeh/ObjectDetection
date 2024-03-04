@@ -1,0 +1,165 @@
+{
+    "name": "DoorsWork",
+    "securityToken": "DoorsWork Token",
+    "sourceConnection": {
+        "name": "newDoors",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzY3MDhjNzUwNDRjNDBjYmI0MGMwMzI3OGFmYjJkNzZlYjJlNmFhYzI2ZGU3YzFmZTRhODkwZGQwYmE1NTAxODNkMzk4YjE3ZGI1ZGI0MDIxNDVlMTc4NTY0ZmYyZmFmN2M1ZmIyNWZmZTkyNmVmMmM1N2UzYTljOWQwMmNlYzIiLCJpdiI6ImI4NDEwNjAyM2Y4ZDRkOWM1M2ZjZGZlNWFkYTdlNGE5NGY0M2E3ODA1ZjhiMDgwYSJ9"
+        },
+        "id": "UonUtS_As"
+    },
+    "targetConnection": {
+        "name": "newDoorsOut",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzVkOGU0NDgwODUyY2ZiNmEzNTVmNTU5MGMxZWNmM2RmNjE5ZWQwMmQyNDZmMDcyNzhkNzVlNmY0MWVjZGRlNzU4OGYwYThhZDY4MDA3OWU2NTFjNGU0ZDQ4MzJjN2Q0NmQ2YjFlNGMxZTgyNTljZTljOTVjODA0MmIzYjQ4MmMiLCJpdiI6IjVlMGIxMjE1ZDIyYzAzMDFjMDQ5MDY2NTkyYzljMDk1NDE4NzUwNGU0MTU3YWE5OCJ9"
+        },
+        "id": "EbwZgCdB-"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Door",
+            "color": "#5db300"
+        }
+    ],
+    "id": "kjSdti-dY",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmViNzM1MDczNGI3YTYxYWEzNmE3YmQ5ODUxOGI0ZjgzY2FlNDBiMDE3MmIxNDlmODAyZWVjNDk2ZmZkOGNjYWExNzJjZTUzMTMxOTZlMTk5YTljYWFkMmI0M2JlYTZmIiwiaXYiOiI0OTI0ZGY3NWM3M2IyNGQ5OTMzMGI1MGZjMjk4NzIxNGFjNGJkMjY2NGYyNmFkY2UifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "28eff6655ca3945e2f305d0d4782ac20",
+    "assets": {
+        "345af2821453408aeccc0db6204e19a4": {
+            "format": "png",
+            "id": "345af2821453408aeccc0db6204e19a4",
+            "name": "1.png",
+            "path": "file:C:/Users/developer/Desktop/doors/1.png",
+            "size": {
+                "width": 115,
+                "height": 151
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4bb64a9dd1181d5f5d1733b3eaba6326": {
+            "format": "png",
+            "id": "4bb64a9dd1181d5f5d1733b3eaba6326",
+            "name": "10.png",
+            "path": "file:C:/Users/developer/Desktop/doors/10.png",
+            "size": {
+                "width": 138,
+                "height": 196
+            },
+            "state": 2,
+            "type": 1
+        },
+        "625019e720b2efb1a4c273fb176e8dc1": {
+            "format": "png",
+            "id": "625019e720b2efb1a4c273fb176e8dc1",
+            "name": "2.png",
+            "path": "file:C:/Users/developer/Desktop/doors/2.png",
+            "size": {
+                "width": 172,
+                "height": 186
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f779e73144bb443dea7a60a76dc34470": {
+            "format": "png",
+            "id": "f779e73144bb443dea7a60a76dc34470",
+            "name": "3.png",
+            "path": "file:C:/Users/developer/Desktop/doors/3.png",
+            "size": {
+                "width": 169,
+                "height": 199
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d6ebdc4e6f4e4c6da0490bf2bc9d1da": {
+            "format": "png",
+            "id": "2d6ebdc4e6f4e4c6da0490bf2bc9d1da",
+            "name": "4.png",
+            "path": "file:C:/Users/developer/Desktop/doors/4.png",
+            "size": {
+                "width": 96,
+                "height": 120
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c88db5ff5e77a11ff55b467cb85a82d7": {
+            "format": "png",
+            "id": "c88db5ff5e77a11ff55b467cb85a82d7",
+            "name": "5.png",
+            "path": "file:C:/Users/developer/Desktop/doors/5.png",
+            "size": {
+                "width": 130,
+                "height": 135
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25335054a70e51d40ee8b053feafcdfe": {
+            "format": "png",
+            "id": "25335054a70e51d40ee8b053feafcdfe",
+            "name": "6.png",
+            "path": "file:C:/Users/developer/Desktop/doors/6.png",
+            "size": {
+                "width": 109,
+                "height": 136
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a1e076556328ec2683a4f440daf4582": {
+            "format": "png",
+            "id": "6a1e076556328ec2683a4f440daf4582",
+            "name": "7.png",
+            "path": "file:C:/Users/developer/Desktop/doors/7.png",
+            "size": {
+                "width": 145,
+                "height": 235
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c38feffd41ab5771102bb426a64d6931": {
+            "format": "png",
+            "id": "c38feffd41ab5771102bb426a64d6931",
+            "name": "8.png",
+            "path": "file:C:/Users/developer/Desktop/doors/8.png",
+            "size": {
+                "width": 148,
+                "height": 186
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28eff6655ca3945e2f305d0d4782ac20": {
+            "format": "png",
+            "id": "28eff6655ca3945e2f305d0d4782ac20",
+            "name": "9.png",
+            "path": "file:C:/Users/developer/Desktop/doors/9.png",
+            "size": {
+                "width": 103,
+                "height": 139
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

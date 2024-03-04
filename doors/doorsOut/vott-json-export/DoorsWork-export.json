@@ -1,0 +1,503 @@
+{
+    "name": "DoorsWork",
+    "securityToken": "DoorsWork Token",
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Door",
+            "color": "#5db300"
+        }
+    ],
+    "id": "kjSdti-dY",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "28eff6655ca3945e2f305d0d4782ac20",
+    "assets": {
+        "28eff6655ca3945e2f305d0d4782ac20": {
+            "asset": {
+                "format": "png",
+                "id": "28eff6655ca3945e2f305d0d4782ac20",
+                "name": "9.png",
+                "path": "file:C:/Users/developer/Desktop/doors/9.png",
+                "size": {
+                    "width": 103,
+                    "height": 139
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "oxbTqx0K0",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 68.56179379377038,
+                        "width": 45.705573080967405,
+                        "left": 30.531309173936975,
+                        "top": 35.21910805865612
+                    },
+                    "points": [
+                        {
+                            "x": 39.268073080967405,
+                            "y": 35.21910805865612
+                        },
+                        {
+                            "x": 76.23688225490439,
+                            "y": 53.11734384316893
+                        },
+                        {
+                            "x": 64.97294955248587,
+                            "y": 103.7809018524265
+                        },
+                        {
+                            "x": 30.531309173936975,
+                            "y": 86.53219547449986
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c38feffd41ab5771102bb426a64d6931": {
+            "asset": {
+                "format": "png",
+                "id": "c38feffd41ab5771102bb426a64d6931",
+                "name": "8.png",
+                "path": "file:C:/Users/developer/Desktop/doors/8.png",
+                "size": {
+                    "width": 148,
+                    "height": 186
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "HuCyNtksN",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 126.02804622471889,
+                        "width": 72.1174168297456,
+                        "left": 39.05304731454868,
+                        "top": 27.909660268052715
+                    },
+                    "points": [
+                        {
+                            "x": 39.05304731454868,
+                            "y": 44.80997032094224
+                        },
+                        {
+                            "x": 99.10261741682974,
+                            "y": 27.909660268052715
+                        },
+                        {
+                            "x": 111.17046414429427,
+                            "y": 131.7258625921802
+                        },
+                        {
+                            "x": 59.52011126314824,
+                            "y": 153.9377064927716
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "6a1e076556328ec2683a4f440daf4582": {
+            "asset": {
+                "format": "png",
+                "id": "6a1e076556328ec2683a4f440daf4582",
+                "name": "7.png",
+                "path": "file:C:/Users/developer/Desktop/doors/7.png",
+                "size": {
+                    "width": 145,
+                    "height": 235
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "DAOrF9Saf",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 165.45172456640321,
+                        "width": 60.29462024418995,
+                        "left": 45.21523832070707,
+                        "top": 31.60176904030678
+                    },
+                    "points": [
+                        {
+                            "x": 45.21523832070707,
+                            "y": 50.88006230529595
+                        },
+                        {
+                            "x": 91.47364837954743,
+                            "y": 31.60176904030678
+                        },
+                        {
+                            "x": 105.50985856489703,
+                            "y": 164.10955720230055
+                        },
+                        {
+                            "x": 64.98796559343435,
+                            "y": 197.05349360671
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "25335054a70e51d40ee8b053feafcdfe": {
+            "asset": {
+                "format": "png",
+                "id": "25335054a70e51d40ee8b053feafcdfe",
+                "name": "6.png",
+                "path": "file:C:/Users/developer/Desktop/doors/6.png",
+                "size": {
+                    "width": 109,
+                    "height": 136
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "8A-7GEtn3",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 86.78297742802035,
+                        "width": 47.17331172843021,
+                        "left": 30.089091220332996,
+                        "top": 17.300104919623735
+                    },
+                    "points": [
+                        {
+                            "x": 30.089091220332996,
+                            "y": 51.9709263501509
+                        },
+                        {
+                            "x": 64.76288885741238,
+                            "y": 17.300104919623735
+                        },
+                        {
+                            "x": 77.26240294876321,
+                            "y": 76.19107388410241
+                        },
+                        {
+                            "x": 44.98965053725173,
+                            "y": 104.08308234764408
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "c88db5ff5e77a11ff55b467cb85a82d7": {
+            "asset": {
+                "format": "png",
+                "id": "c88db5ff5e77a11ff55b467cb85a82d7",
+                "name": "5.png",
+                "path": "file:C:/Users/developer/Desktop/doors/5.png",
+                "size": {
+                    "width": 130,
+                    "height": 135
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "oFXoJ-RzJ",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 63.85513804783331,
+                        "width": 58.081388234513945,
+                        "left": 39.69667451653446,
+                        "top": 29.719628307306877
+                    },
+                    "points": [
+                        {
+                            "x": 39.69667451653446,
+                            "y": 36.4486002699237
+                        },
+                        {
+                            "x": 88.74006760149302,
+                            "y": 29.719628307306877
+                        },
+                        {
+                            "x": 97.7780627510484,
+                            "y": 88.3177570093458
+                        },
+                        {
+                            "x": 54.129446240905416,
+                            "y": 93.57476635514018
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "2d6ebdc4e6f4e4c6da0490bf2bc9d1da": {
+            "asset": {
+                "format": "png",
+                "id": "2d6ebdc4e6f4e4c6da0490bf2bc9d1da",
+                "name": "4.png",
+                "path": "file:C:/Users/developer/Desktop/doors/4.png",
+                "size": {
+                    "width": 96,
+                    "height": 120
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "kdnaT_g1v",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 71.65109794830607,
+                        "width": 38.20058042234664,
+                        "left": 39.11392405063291,
+                        "top": 19.626168224299064
+                    },
+                    "points": [
+                        {
+                            "x": 39.11392405063291,
+                            "y": 19.626168224299064
+                        },
+                        {
+                            "x": 74.82181110029211,
+                            "y": 32.08722836503359
+                        },
+                        {
+                            "x": 77.31450447297955,
+                            "y": 91.27726617260514
+                        },
+                        {
+                            "x": 45.407988224196686,
+                            "y": 78.94081187025408
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "f779e73144bb443dea7a60a76dc34470": {
+            "asset": {
+                "format": "png",
+                "id": "f779e73144bb443dea7a60a76dc34470",
+                "name": "3.png",
+                "path": "file:C:/Users/developer/Desktop/doors/3.png",
+                "size": {
+                    "width": 169,
+                    "height": 199
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "rieDTi6U1",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 163.97352024922117,
+                        "width": 64.64650798346557,
+                        "left": 27.99401351970669,
+                        "top": 14.56853582554517
+                    },
+                    "points": [
+                        {
+                            "x": 27.99401351970669,
+                            "y": 34.09657320872274
+                        },
+                        {
+                            "x": 79.42206118240146,
+                            "y": 14.56853582554517
+                        },
+                        {
+                            "x": 92.64052150317227,
+                            "y": 146.30529595015577
+                        },
+                        {
+                            "x": 48.33804670940508,
+                            "y": 178.54205607476635
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "625019e720b2efb1a4c273fb176e8dc1": {
+            "asset": {
+                "format": "png",
+                "id": "625019e720b2efb1a4c273fb176e8dc1",
+                "name": "2.png",
+                "path": "file:C:/Users/developer/Desktop/doors/2.png",
+                "size": {
+                    "width": 172,
+                    "height": 186
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "2HCb2oJCe",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 126.41433316524896,
+                        "width": 83.27100308682603,
+                        "left": 39.29591406908172,
+                        "top": 24.433024754034022
+                    },
+                    "points": [
+                        {
+                            "x": 39.29591406908172,
+                            "y": 30.613708638699254
+                        },
+                        {
+                            "x": 110.58824768323504,
+                            "y": 24.433024754034022
+                        },
+                        {
+                            "x": 122.56691715590775,
+                            "y": 140.51401869158877
+                        },
+                        {
+                            "x": 54.55904829994208,
+                            "y": 150.84735791928298
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "4bb64a9dd1181d5f5d1733b3eaba6326": {
+            "asset": {
+                "format": "png",
+                "id": "4bb64a9dd1181d5f5d1733b3eaba6326",
+                "name": "10.png",
+                "path": "file:C:/Users/developer/Desktop/doors/10.png",
+                "size": {
+                    "width": 138,
+                    "height": 196
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "N11iMYPgD",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 119.06542521919415,
+                        "width": 64.52211768226286,
+                        "left": 36.767563946479186,
+                        "top": 26.458983899648313
+                    },
+                    "points": [
+                        {
+                            "x": 45.21447281288889,
+                            "y": 26.458983899648313
+                        },
+                        {
+                            "x": 101.28968162874204,
+                            "y": 32.15784318870473
+                        },
+                        {
+                            "x": 87.65252591023402,
+                            "y": 145.52440911884247
+                        },
+                        {
+                            "x": 36.767563946479186,
+                            "y": 133.21080269026234
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        },
+        "345af2821453408aeccc0db6204e19a4": {
+            "asset": {
+                "format": "png",
+                "id": "345af2821453408aeccc0db6204e19a4",
+                "name": "1.png",
+                "path": "file:C:/Users/developer/Desktop/doors/1.png",
+                "size": {
+                    "width": 115,
+                    "height": 151
+                },
+                "state": 2,
+                "type": 1
+            },
+            "regions": [
+                {
+                    "id": "tdEFwRdUj",
+                    "type": "POLYGON",
+                    "tags": [
+                        "Door"
+                    ],
+                    "boundingBox": {
+                        "height": 116.97404903043467,
+                        "width": 61.22359511798632,
+                        "left": 27.56800177638516,
+                        "top": 18.580996884735203
+                    },
+                    "points": [
+                        {
+                            "x": 27.56800177638516,
+                            "y": 18.580996884735203
+                        },
+                        {
+                            "x": 86.43985865306269,
+                            "y": 21.325027156841717
+                        },
+                        {
+                            "x": 88.79159689437148,
+                            "y": 135.55504591516987
+                        },
+                        {
+                            "x": 35.0935641485733,
+                            "y": 129.3613707165109
+                        }
+                    ]
+                }
+            ],
+            "version": "2.2.0"
+        }
+    }
+}
